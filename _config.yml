@@ -1,5 +1,6 @@
 # Site settings
-remote_theme : patdryburgh/hitchens
+remote_theme : midzer/urban-theme
+
 
 title: something for nothing
 email: raesaeng@naver.com
