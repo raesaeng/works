@@ -4,8 +4,9 @@ title:  "nothing"
 date:   2020-08-08
 preview: holder.js/300x300?auto=yes
 ---
-
-<img src="![7](https://user-images.githubusercontent.com/69098825/89730843-6c3e2280-da7d-11ea-9ec0-0916132cc675.JPG/800x600?auto=yes)">
+  
+![7](https://user-images.githubusercontent.com/69098825/89730843-6c3e2280-da7d-11ea-9ec0-0916132cc675.JPG
+  
 
 비견이 강하면 자기보다 못한 상대는 자신만큼 끌어주고  
 자기보다 강한 상대를 보면 그만큼 스스로 발전시키려는 성향이 있음  
