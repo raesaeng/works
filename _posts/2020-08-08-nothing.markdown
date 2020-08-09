@@ -2,7 +2,7 @@
 layout: post
 title:  "nothing"
 date:   2020-08-08
-preview: holder.js/300x300?auto=yes
+preview: https://user-images.githubusercontent.com/69098825/89730843-6c3e2280-da7d-11ea-9ec0-0916132cc675.JPG/300x300?auto=yes
 ---
   
 ![7](https://user-images.githubusercontent.com/69098825/89730843-6c3e2280-da7d-11ea-9ec0-0916132cc675.JPG)
